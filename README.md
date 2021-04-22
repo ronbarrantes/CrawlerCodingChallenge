@@ -7,3 +7,13 @@ I this case the section "history" from the [Microsoft Wiki](https://en.wikipedia
 - The number of words are adjustable (default: 10)
 - The app is able to exclude words from the search
 - The code is built into an executable console application
+
+## How to run?
+Using terminal or command prompt navigate to the project's root directory and type the command
+```
+python3 crawler
+```
+Once running the prompt will ask optional questions about the word limit and words to be excluded
+
+## System Requirements
+Your computer should be running [Python 3](https://www.python.org/downloads/)
